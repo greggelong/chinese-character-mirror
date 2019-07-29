@@ -5,6 +5,10 @@ let myvideo;
 let vScale; // global video scaling variable 
 let chiChar = ["镜", "花", "月", "水", "破", "重", "圆", "明", "高", "悬"];
 let cindex = 0;
+let dian;
+let ge;
+let long;
+
 
 function setup() {
   createCanvas(windowWidth, windowHeight); // larger canvas to draw to
@@ -23,6 +27,17 @@ function setup() {
   myvideo.size(width / vScale, height / vScale);
   // video dom element , the source, will be smaller by vScale which is 40 by 30 to improve performance
   frameRate(5);
+  dian= createElement('h1',"电");
+  dian.position((vScale*3),height-(vScale*10))
+  dian.style('color','red');
+  ge= createElement('h1',"哥");
+  ge.position((vScale*3),height-(vScale*7.5))
+   
+  ge.style('color','red');
+  long= createElement('h1',"龙");
+  long.position((vScale*3),height-(vScale*6))
+   
+  long.style('color','red');
 }
 
 
