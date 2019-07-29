@@ -8,3 +8,5 @@ I am using three Chinese idioms:
 - 明镜高悬 have a mirror that can tell true from false
 
 I like 镜花水月the best, mirror flower water moon. 
+
+Look into the mirror[https://editor.p5js.org/greggelong/present/8JH7JMbxC]
