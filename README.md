@@ -9,4 +9,4 @@ I am using three Chinese idioms:
 
 I like 镜花水月the best, mirror flower water moon. 
 
-Look into the mirror[https://editor.p5js.org/greggelong/present/8JH7JMbxC]
+[Look into the mirror](https://editor.p5js.org/greggelong/present/8JH7JMbxC)
